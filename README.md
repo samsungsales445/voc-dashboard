@@ -4,7 +4,7 @@
 
 ## 🔗 라이브 URL
 
-배포 후 추가 예정.
+👉 **<https://samsungsales445.github.io/voc-dashboard/>**
 
 ## 📊 주요 기능
 
